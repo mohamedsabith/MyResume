@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/img/undraw_Code_typing_re_p8b9.png") top right no-repeat;
+  /* background: url("/assets/img/undraw_Code_typing_re_p8b9.png") top right no-repeat; */
   background-size: cover;
   position: relative;
 }
@@ -957,10 +957,4 @@ section {
   background: #0678e3;
   color: #fff;
   text-decoration: none;
-}
-#footer .copyright {
-  margin: 0 0 5px 0;
-}
-#footer .credits {
-  font-size: 13px;
 }
